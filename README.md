@@ -15,7 +15,7 @@ The objective is to implement and compare five supervised machine learning class
 
 ## c. GitHub Repository Link
 
-**GitHub:** 
+**GitHub:** https://github.com/ashakbmsitm-cloud/BITS-ML-Assignment-2
 
 ## d. Models Used and Evaluation Metrics
 
