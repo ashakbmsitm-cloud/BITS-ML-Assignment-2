@@ -44,6 +44,5 @@ The observations below are **draft interpretations** of the recorded scores. Rev
 
 ## Streamlit Application Link
 
-**New Streamlit app link:** ADD YOUR NEW STREAMLIT DEPLOYMENT URL HERE (the previous link belongs to the earlier deployment).
-
+https://bits-ml-assignment-2-jgnltcuzawmgj9rlutrxbt.streamlit.app/
 
