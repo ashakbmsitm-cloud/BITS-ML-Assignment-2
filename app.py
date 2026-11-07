@@ -1,9 +1,3 @@
-"""BITS Pilani M.Tech AIML — Assignment 2: pretrained classifier evaluation.
-
-Run with: streamlit run app.py
-Requires model_config.json and the five trained .joblib files in model/.
-The test CSV is evaluated only; no training happens inside this application.
-"""
 
 from io import BytesIO
 import json
@@ -89,7 +83,7 @@ try:
         st.stop()
     y = (labels == "malignant").astype(int)
 
-    model_path = BASE / "model" / model_files[choice]
+    model_path = BASE /model_files[choice]
     if not model_path.is_file():
         st.error(
             f"Missing model/{model_files[choice]} in GitHub. "
